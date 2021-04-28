@@ -1,0 +1,137 @@
+.container {
+    padding: 30px 15px 50px 15px;
+}
+
+.title {
+    background: transparent;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 25px;
+}
+
+.vacancyInfo {
+    display: flex;
+    background: white;
+    padding: 30px 15px;
+}
+
+.vacancyDesc>p {
+    width: 90%;
+    font-size: 20px;
+    line-height: 42px;
+}
+
+.vacancyDesc>p:not(:first-child) {
+    padding-top: 30px;
+}
+
+.vacancyImg {
+    width: 100%;
+}
+
+.vacancyImg>img {
+    width: 100%;
+}
+
+.openTitle {
+    text-align: center;
+    padding-top: 40px;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.openVacancy {
+    width: 58%;
+    margin: 0 auto;
+    padding: 20px 0px 20px 20px;
+    position: relative;
+    box-shadow: 0 0 2rem rgb(0 0 0 / 25%);
+}
+
+.openVacancy:not(:first-child) {
+    margin-top: 60px;
+}
+
+.vacancyTitle {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.vacancyAtributes {
+    display: none;
+}
+
+.vacancyActive>p {
+    width: 90%;
+    padding-top: 25px;
+}
+
+.vacancyBtn {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    right: 13%;
+    bottom: -9%;
+    border-radius: 30px;
+    border: none;
+    outline: none;
+    background: red;
+    cursor: pointer;
+}
+
+.vacancyBtn::after {
+    content: url('../../assets/images/Vacancy/arrow.png');
+    width: 50px;
+    height: 50px;
+}
+
+.vacancyBtn:hover {
+    background: #e15c5c;
+}
+
+.quality {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 23px;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.quality>span:first-child::before {
+    padding-right: 30px;
+    content: '~';
+    font-weight: bold;
+}
+
+.quality>span:last-child::after {
+    padding-left: 30px;
+    content: '~';
+    font-weight: bold;
+}
+
+.qualitySplit {
+    background: black;
+    height: 4px;
+    width: 35px;
+    text-align: center;
+}
+
+.qualitySplit::after {
+    display: block;
+    position: absolute;
+    content: '';
+    width: 20px;
+    height: 2px;
+    margin-top: 10px;
+    background-color: black;
+    font-size: 20px;
+}
+
+.vacancyContacts {
+    font-size: 23px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    text-align: center;
+}

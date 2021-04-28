@@ -1,0 +1,57 @@
+.container {
+    padding: 30px 15px 50px 15px;
+}
+
+.title {
+    background: transparent;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 25px;
+}
+
+.deliveryContainer {
+    background-color: white;
+}
+
+.infoDelivery {
+    display: flex;
+    padding: 20px 20px;
+}
+
+.infoDeliveryDesc {}
+
+.deliveryPeriod {
+    width: 90%;
+}
+
+.deliveryPeriod>p>em {
+    font-weight: bold;
+}
+
+.deliveryPeriod>p {
+    font-size: 19px;
+    padding-top: 20px;
+    line-height: 35.2px;
+}
+
+.deliveryImg>img {
+    width: 100%;
+}
+
+.termsTitle {
+    font-weight: bold;
+    padding: 100px 0 50px 0;
+    font-size: 40px;
+    text-align: center;
+}
+
+.termsDesc {
+    padding: 20px;
+}
+
+.termsDesc > p {
+    padding-top: 20px;
+    font-size: 19px;
+    line-height: 35.2px;
+}

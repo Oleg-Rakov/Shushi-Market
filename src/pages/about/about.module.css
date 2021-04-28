@@ -1,0 +1,43 @@
+.container {
+    padding: 30px 15px 50px 15px;
+}
+
+.title {
+    background: transparent;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+.items {
+    background: white;
+    margin-top: 30px;
+    padding: 40px 10px;
+}
+
+.itemTopDesc, .itemBottomDesc {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.itemTopDesc>p, .itemBottomDesc>p {
+    width: 96%;
+    font-size: 20px;
+    line-height: 46px;
+}
+
+.itemTop {
+    display: flex;
+}
+
+.itemTopDesc {}
+
+.itemTopImg {}
+
+.itemBottom {
+    display: flex;
+    padding-top: 75px;
+}
+
+.itemBottomImg {}

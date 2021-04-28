@@ -1,0 +1,84 @@
+.container {
+  display: flex;
+  margin-top: 50px;
+  background-color: white;
+}
+
+.popularItem {
+  flex-basis: 28%;
+  border: 1px solid #ebebeb;
+  padding-left: 10px;
+  cursor: pointer;
+}
+
+.popularItem:hover {
+  box-shadow: 0 0.5rem 1.5rem rgb(0 0 0 / 30%);
+}
+
+.popularImg {
+  text-align: center;
+  box-shadow: 0 0 1.5rem rgb(0 0 0 / 7%);
+  margin-bottom: 35px;
+}
+
+.popularImg > img {
+  width: 100%;
+  height: 305px;
+  object-fit: contain;
+}
+
+.itemName {
+  text-decoration: none;
+  font-size: 25px;
+  color: black;
+}
+
+.popularItem > p {
+  padding-bottom: 15px;
+}
+
+.itemValue {
+  color: gray;
+}
+
+.itemDesc {
+  width: 85%;
+  font-size: 14px;
+  padding-top: 8px;
+  padding-bottom: 40px !important;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 3rem,
+    rgba(255, 255, 255, 0.5) 4rem,
+    rgba(255, 255, 255, 0.8) 100%
+  );
+}
+
+.info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 25px;
+}
+
+.infoPrice {
+  font-size: 25px;
+}
+
+.infoBtn {
+  text-decoration: none;
+  color: red;
+  border: 1px solid red;
+  padding: 16px 36px;
+  margin-right: 20px;
+  border-radius: 30px;
+  transition: 0.3s ease all;
+  background-color: white;
+  font-size: 18px;
+  outline: none;
+}
+
+.infoBtn:hover {
+  background-color: red;
+  color: white;
+}

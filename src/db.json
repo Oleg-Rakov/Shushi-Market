@@ -1,0 +1,191 @@
+{
+  "popularItems": [
+    {
+      "id": 1,
+      "img": "http://sushiland.kiev.ua/assets/images/products/55/filadelfiya-v-ikre.jpg",
+      "name": "Филадельфия в икре 1+1",
+      "value": "8",
+      "gram": "200",
+      "desc": "Рис, нори, лосось, сыр филадельфия, огурец, икра масаго , имбирь, васаби",
+      "price": "139",
+      "count": 1
+    },
+    {
+      "id": 2,
+      "img": "http://sushiland.kiev.ua/assets/images/products/60/img-20190306-215933.jpg",
+      "name": "Филадельфия дуэт 1+1",
+      "value": "8",
+      "gram": "200",
+      "desc": "Рис, нори, лосось, угорь, сыр филадельфия, огурец, имбирь, васаби",
+      "price": "239",
+      "count": 1
+    },
+    {
+      "id": 3,
+      "img": "http://sushiland.kiev.ua/assets/images/products/45/zapechennyij-ugor.jpg",
+      "name": "Запеченный Угорь",
+      "value": "8",
+      "gram": "210",
+      "desc": "Рис, нори, угорь, сыр филадельфия, огурец, кунжут, яки соус имбирь, васаби",
+      "price": "149",
+      "count": 1
+    },
+    {
+      "id": 4,
+      "img": "http://sushiland.kiev.ua/assets/images/products/48/5797b5597d9773a01c233b29.jpg",
+      "name": "Запеченный Окунь",
+      "value": "8",
+      "gram": "210",
+      "desc": "Рис, нори, окунь, сыр филадельфия, огурец, кунжут, яки соус имбирь, васаби",
+      "price": "99",
+      "count": 1
+    }
+  ],
+  "recommendationItems": [
+    {
+      "id": 1,
+      "img": "http://sushiland.kiev.ua/assets/images/products/16/size1/img-2451.jpg",
+      "name": "Мисо суп",
+      "value": "1",
+      "gram": "300",
+      "desc": "Бульон мисо, сыр тофу, грибы шийтаки, водоросли вакамэ, лук зеленый, кунжут",
+      "price": "46",
+      "link": "/item/1"
+    },
+    {
+      "id": 2,
+      "img": "http://sushiland.kiev.ua/assets/images/products/18/size1/set-filadelfiya.jpg",
+      "name": "Сет Филадельфия",
+      "value": "32",
+      "gram": "800",
+      "desc": "Филадельфия микс, филадельфия классическая, филадельфия в икре, филадельфия гриль, имбирь, васаби",
+      "price": "339",
+      "link": "/item/2"
+    },
+    {
+      "id": 3,
+      "img": "http://sushiland.kiev.ua/assets/images/products/21/size1/set-maxi-zapechennyij.jpg",
+      "name": "Сет Maxi-запеченный",
+      "value": "40",
+      "gram": "1100",
+      "desc": "Запеченный лосось, Запеченный пармезан, Запеченная мидия-бекон, Запеченный угорь, Запеченный краб, имбирь, васаби",
+      "price": "419",
+      "link": "/item/3"
+    },
+    {
+      "id": 4,
+      "img": "http://sushiland.kiev.ua/assets/images/products/23/size1/set-drakon.jpg",
+      "name": "Сет Дракон",
+      "value": "32",
+      "gram": "850",
+      "desc": "Дракон зеленый, Дракон красный, Дракон золотой, Дракон черный, имбирь, васаби",
+      "price": "599",
+      "link": "/item/4"
+    },
+    {
+      "id": 5,
+      "img": "http://sushiland.kiev.ua/assets/images/products/24/size1/set-sushi-lend.jpg",
+      "name": "Сет Суши-Land",
+      "value": "66",
+      "gram": "1400",
+      "desc": "Маки огурец, Маки лосось, Маки авокадо, Ролл 3 сыра, Калифорния в кунжуте, Калифорния с креветкой,Ролл аляска, Филадельфия самурай, Филадельфия классическая имбирь, васаби",
+      "price": "496",
+      "link": "/item/1"
+    },
+    {
+      "id": 6,
+      "img": "http://sushiland.kiev.ua/assets/images/products/46/size1/zapechennaya-midiya-bekon.jpg",
+      "name": "Запеченная мидия-бекон 1+1",
+      "value": "8",
+      "gram": "210",
+      "desc": "Рис, нори, мидия, бекон, сыр филадельфия, огурец, кунжут, яки соус имбирь, васаби",
+      "price": "149",
+      "link": "/item/2"
+    },
+    {
+      "id": 7,
+      "img": "http://sushiland.kiev.ua/assets/images/products/56/size1/filadelfiya-klassicheskaya.jpg",
+      "name": "Филадельфия классическая 1+1",
+      "value": "8",
+      "gram": "200",
+      "desc": "Рис, нори, лосось, сыр филадельфия, огурец, имбирь, васаби",
+      "price": "159",
+      "link": "/item/3"
+    },
+    {
+      "id": 8,
+      "img": "http://sushiland.kiev.ua/assets/images/products/72/size1/125187693-666694223995816-5776213056505516805-n.jpg",
+      "name": "Калифорния с креветкой 1+1",
+      "value": "8",
+      "gram": "200",
+      "desc": "Рис, нори, креветка, лист салата, огурец, икра масаго, спайс соус, имбирь, васаби",
+      "price": "159",
+      "link": "/item/4"
+    }
+  ],
+  "catalogItems": [
+    {
+      "id": 1,
+      "mainImg": "http://sushiland.kiev.ua/assets/img/content/catalog/drakon-zolotoj.jpg",
+      "hoverImg": "http://sushiland.kiev.ua/assets/img/content/catalog/sushi_hover.png",
+      "iconImg": "http://sushiland.kiev.ua/assets/img/icons/catalog/sushi.png",
+      "name": "Роллы"
+    },
+    {
+      "id": 2,
+      "mainImg": "http://sushiland.kiev.ua/assets/img/content/catalog/salad.png",
+      "hoverImg": "http://sushiland.kiev.ua/assets/img/content/catalog/salad_hover.png",
+      "iconImg": "http://sushiland.kiev.ua/assets/img/icons/catalog/salad.png",
+      "name": "Поке"
+    },
+    {
+      "id": 3,
+      "mainImg": "http://sushiland.kiev.ua/assets/img/content/catalog/set.png",
+      "hoverImg": "http://sushiland.kiev.ua/assets/img/content/catalog/set_hover.png",
+      "iconImg": "http://sushiland.kiev.ua/assets/img/icons/catalog/set.png",
+      "name": "Сеты"
+    },
+    {
+      "id": 4,
+      "mainImg": "http://sushiland.kiev.ua/assets/img/content/catalog/pizza.png",
+      "hoverImg": "http://sushiland.kiev.ua/assets/img/content/catalog/pizza_hover.png",
+      "iconImg": "http://sushiland.kiev.ua/assets/img/icons/catalog/pizza.png",
+      "name": "Пицца"
+    },
+    {
+      "id": 5,
+      "mainImg": "http://sushiland.kiev.ua/assets/img/content/catalog/%D1%81%D1%83%D1%88%D0%B8-%D0%BB%D0%BE%D1%81%D0%BE%D1%81%D1%8C-250x135.png",
+      "hoverImg": "http://sushiland.kiev.ua/assets/img/content/catalog/yo-curry-sushi.jpg",
+      "iconImg": "http://sushiland.kiev.ua/assets/img/icons/catalog/sushi.png",
+      "name": "Суши"
+    },
+    {
+      "id": 6,
+      "mainImg": "http://sushiland.kiev.ua/assets/img/content/catalog/salad.png",
+      "hoverImg": "http://sushiland.kiev.ua/assets/img/content/catalog/salad_hover.png",
+      "iconImg": "http://sushiland.kiev.ua/assets/img/icons/catalog/salad.png",
+      "name": "Салаты"
+    },
+    {
+      "id": 7,
+      "mainImg": "http://sushiland.kiev.ua/assets/img/content/catalog/hotMeal.png",
+      "hoverImg": "http://sushiland.kiev.ua/assets/img/content/catalog/hotMeal_hover.png",
+      "iconImg": "http://sushiland.kiev.ua/assets/img/icons/catalog/hotMeal.png",
+      "name": "Горячие блюда"
+    },
+    {
+      "id": 8,
+      "mainImg": "http://sushiland.kiev.ua/assets/img/content/catalog/soup.png",
+      "hoverImg": "http://sushiland.kiev.ua/assets/img/content/catalog/soup_hover.png",
+      "iconImg": "http://sushiland.kiev.ua/assets/img/icons/catalog/soup.png",
+      "name": "Супы"
+    },
+    {
+      "id": 9,
+      "mainImg": "http://sushiland.kiev.ua/assets/img/content/catalog/drink.png",
+      "hoverImg": "http://sushiland.kiev.ua/assets/img/content/catalog/drink_hover.png",
+      "iconImg": "http://sushiland.kiev.ua/assets/img/icons/catalog/drink.png",
+      "name": "Напитки"
+    }
+  ]
+}

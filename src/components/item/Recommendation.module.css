@@ -1,0 +1,91 @@
+.container {
+    padding: 120px 0 80px 0;
+}
+
+.title {
+    text-align: center;
+    font-size: 45px;
+    font-weight: 500;
+    padding-bottom: 100px;
+}
+
+.items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.item {
+    flex-basis: 24%;
+    border: 1px solid #ebebeb;
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+.item:hover {
+    box-shadow: 0 0.5rem 1.5rem rgb(0 0 0 / 30%);
+}
+
+.item:nth-child(n):nth-child(n+5) {
+    margin-top: 60px;
+}
+
+.popularImg {
+    text-align: center;
+    box-shadow: 0 0 1.5rem rgb(0 0 0 / 7%);
+    margin-bottom: 35px;
+}
+
+.popularImg>img {
+    width: 100%;
+    object-fit: none;
+}
+
+.itemName {
+    font-size: 25px;
+    color: black;
+}
+
+.popularItem>p {
+    padding-bottom: 15px;
+}
+
+.itemValue {
+    color: gray;
+}
+
+.itemDesc {
+    width: 85%;
+    font-size: 14px;
+    padding-top: 8px;
+    padding-bottom: 40px !important;
+    background: linear-gradient( 180deg, rgba(255, 255, 255, 0) 3rem, rgba(255, 255, 255, 0.5) 4rem, rgba(255, 255, 255, 0.8) 100%);
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 25px;
+}
+
+.infoPrice {
+    font-size: 25px;
+}
+
+.infoBtn {
+    color: red;
+    border: 1px solid red;
+    padding: 16px 36px;
+    margin-right: 20px;
+    border-radius: 30px;
+    transition: 0.3s ease all;
+    background: white;
+    font-size: 17px;
+    outline: none;
+}
+
+.infoBtn:hover {
+    background-color: red;
+    color: white;
+}

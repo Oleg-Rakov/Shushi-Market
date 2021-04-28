@@ -1,0 +1,10 @@
+.container {
+    width: 100%;
+    padding: 40px 15px 30px 15px;
+}
+
+.popularTitle {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}

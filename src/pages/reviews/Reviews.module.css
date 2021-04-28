@@ -1,0 +1,114 @@
+.container {
+    padding: 30px 15px 50px 15px;
+}
+
+.title {
+    background: transparent;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 25px;
+}
+
+.reviewsInfo {
+    background-color: white;
+    text-align: center;
+    font-size: 23px;
+}
+
+.reviewsInfo>p {
+    padding-top: 35px;
+}
+
+.form {
+    padding-top: 100px;
+}
+
+.formTitle {
+    color: black;
+    text-align: center;
+    font-size: 40px;
+}
+
+.formItems {
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    padding-top: 60px;
+}
+
+.formItems>textarea, .formItems>input {
+    width: 100%;
+    border: 1px solid #d7d7d7;
+    outline: none;
+    padding: 15px;
+    border-radius: 15px;
+    font-size: 19px;
+}
+
+.formItems>input {
+    margin-top: 30px;
+}
+
+.formBtn {
+    margin-top: 30px;
+}
+
+.formBtn>button {
+    width: 30%;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 30px;
+    border: none;
+    outline: none;
+    background: red;
+    color: white;
+    text-align: center;
+}
+
+.formBtn>button:hover {
+    background-color: #ef4e4e
+}
+
+.commentsBlock {
+    display: flex;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #d7d7d7;
+}
+
+.commentImg {
+    background: red;
+    border-radius: 49px;
+    padding: 5px 5px 5px 5px;
+    width: 4%;
+    height: 100%;
+}
+
+.commentImg > img {
+    width: 100%;
+}
+
+.commentInfo {
+    padding-left: 30px;
+}
+
+.commentName {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.commentDate {
+    padding-top: 8px;
+    color: #808080;
+    font-size: 14px;
+}
+
+.commentDesc {
+    padding-top: 8px;
+    font-size: 14px;
+}
+
+
+

@@ -1,0 +1,72 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+  padding: 25px 15px;
+  border-top: 1px solid rgba(255, 255, 255, 0.5);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.footerLogo {
+  flex-basis: 18%;
+}
+
+.headerLogo > a > img {
+  width: 100%;
+}
+
+.navBar {
+  flex-basis: 60%;
+  overflow: hidden;
+}
+
+.navBar > a {
+  position: relative;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+  overflow: hidden;
+}
+
+.navBar > a::before {
+  background: url('../../assets/images/navlink-hover.png') no-repeat center;
+  width: 100%;
+  height: 6px;
+  content: '';
+  position: absolute;
+  right: 13px;
+  top: -25%;
+  transition: all 200ms ease;
+}
+
+.navBar > a:hover::before {
+  top: 19px;
+}
+
+.navBar > a:not(:last-child) {
+  padding-right: 18px;
+}
+
+.navBar > a:not(:last-child)::after {
+  content: '\2022';
+  margin-left: 18px;
+}
+
+.socialBlock {
+  display: flex;
+  text-align: center;
+}
+
+.socialItem:first-child {
+  padding-right: 30px;
+}
+
+.socialItem > a > img {
+  width: 80%;
+  transition-timing-function: ease-in-out;
+}
+
+.socialItem > a > img:hover {
+  transform: scale(1.2);
+}
