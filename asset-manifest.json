@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Shushi-Market/static/css/main.008768a2.chunk.css",
+    "main.js": "/Shushi-Market/static/js/main.c486bc12.chunk.js",
+    "main.js.map": "/Shushi-Market/static/js/main.c486bc12.chunk.js.map",
+    "runtime-main.js": "/Shushi-Market/static/js/runtime-main.83d892ed.js",
+    "runtime-main.js.map": "/Shushi-Market/static/js/runtime-main.83d892ed.js.map",
+    "static/css/2.0f0f29c6.chunk.css": "/Shushi-Market/static/css/2.0f0f29c6.chunk.css",
+    "static/js/2.e48f3cde.chunk.js": "/Shushi-Market/static/js/2.e48f3cde.chunk.js",
+    "static/js/2.e48f3cde.chunk.js.map": "/Shushi-Market/static/js/2.e48f3cde.chunk.js.map",
+    "index.html": "/Shushi-Market/index.html",
+    "static/css/2.0f0f29c6.chunk.css.map": "/Shushi-Market/static/css/2.0f0f29c6.chunk.css.map",
+    "static/css/main.008768a2.chunk.css.map": "/Shushi-Market/static/css/main.008768a2.chunk.css.map",
+    "static/js/2.e48f3cde.chunk.js.LICENSE.txt": "/Shushi-Market/static/js/2.e48f3cde.chunk.js.LICENSE.txt",
+    "static/media/about-1.36602e10.jpg": "/Shushi-Market/static/media/about-1.36602e10.jpg",
+    "static/media/about-2.7789bef7.jpg": "/Shushi-Market/static/media/about-2.7789bef7.jpg",
+    "static/media/delivery.eb8e69d4.jpg": "/Shushi-Market/static/media/delivery.eb8e69d4.jpg",
+    "static/media/header-logo.56d762c9.png": "/Shushi-Market/static/media/header-logo.56d762c9.png",
+    "static/media/index.css": "/Shushi-Market/static/media/header.7861b641.jpg",
+    "static/media/notifications.css": "/Shushi-Market/static/media/notification.c5d9251e.ttf",
+    "static/media/promotions.b60dd0e8.webm": "/Shushi-Market/static/media/promotions.b60dd0e8.webm",
+    "static/media/vacancy.4e5e69f1.jpg": "/Shushi-Market/static/media/vacancy.4e5e69f1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83d892ed.js",
+    "static/css/2.0f0f29c6.chunk.css",
+    "static/js/2.e48f3cde.chunk.js",
+    "static/css/main.008768a2.chunk.css",
+    "static/js/main.c486bc12.chunk.js"
+  ]
+}
